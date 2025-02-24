@@ -197,7 +197,7 @@ def patch_url(file_bytes: bytearray, new_url: str) -> bytearray:
     #    - Strip any trailing slash, then add '/static/'
     #    - e.g. "http://example.com" => "http://example.com/static/"
     #    - e.g. "http://example.com/" => "http://example.com/static/"
-    new_url = new_url.rstrip("/") + "/static/"
+    
 
     # 2) Convert to bytes
     new_url_bytes = bytearray(new_url, "utf-8")
