@@ -4,6 +4,10 @@ Simple scripts to patch the Tapped Out APK with new server urls. All credit to t
 # FOR TJAC USERS
 Cuppy here! This fork of the patcher is meant for TJAC users. Fixes a bug where it does not patch the given URL in the format TJAC likes.
 
+You must put it in this format to connect with TJAC correctly!
+Gameserver: http://IP:PORT
+DLC: http://IP:PORT/gameassets/
+
 ## Overview
 This document provides instructions for two different scripts to patch the Tapped Out APK with new server URLs. 
 
