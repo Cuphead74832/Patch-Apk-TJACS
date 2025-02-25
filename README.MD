@@ -1,6 +1,9 @@
 # Patch APK
 Simple scripts to patch the Tapped Out APK with new server urls. All credit to tehfens for the patch_native.py script.
 
+# FOR TJAC USERS
+Cuppy here! This fork of the patcher is meant for TJAC users. Fixes a bug where it does not patch the given URL in the format TJAC likes.
+
 ## Overview
 This document provides instructions for two different scripts to patch the Tapped Out APK with new server URLs. 
 
